@@ -1,3 +1,3 @@
 This README.md is to list my thought process/thoughts/comments/concerns about the project as I go through it.
 
-update 1: project says to add the "style" attribute with the "background-image" property inline in the <div> tags. My understanding is that even though this method of styling is allowed, it is not the "best practices" method. I will change this at the end of the project to include it in the "styles.css" file to see how it affects the project.
+update 1: project says to add the "style" attribute with the "background-image" property inline in the <div> tags. My understanding is that even though this method of styling is allowed, it is not the "best practice" method. I will change this at the end of the project to include it in the "styles.css" file to see how it affects the project.
